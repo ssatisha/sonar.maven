@@ -1,0 +1,2 @@
+# sonar.maven
+sonar.maven
