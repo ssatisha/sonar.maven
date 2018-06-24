@@ -11,7 +11,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
  </properties>
  
-<build>
+
   <plugins>
             <!-- Adds source and resource directories to our build -->
         
@@ -22,6 +22,8 @@
          </plugin>
 		
   </plugins>
+<build>
+	<finalname>mavensonar</finalname>
 </build>
     <dependencies>
         <!-- TESTING DEPENDENCIES -->
